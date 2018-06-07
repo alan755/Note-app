@@ -1,0 +1,22 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Note-app is a command line desktop based app in node.js, used for saving and manupulating notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmathew333/Note-app.git"
+  },
+  "author": "Alan Mathew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanmathew333/Note-app/issues"
+  },
+  "homepage": "https://github.com/alanmathew333/Note-app#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
